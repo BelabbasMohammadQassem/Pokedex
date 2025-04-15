@@ -1,0 +1,18 @@
+# Ne pas versionner les dépendances
+node_modules/
+
+# Fichiers de build
+build/
+dist/
+
+# Logs et erreurs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Variables d’environnement
+.env
+
+# MacOS / Windows
+.DS_Store
+Thumbs.db
